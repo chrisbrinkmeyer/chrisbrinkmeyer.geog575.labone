@@ -1,3 +1,44 @@
-#mapid{
-    height: 500px;
+#map {
+    height: 400px;
+    width: 100%;
+    display: block ;
+}
+#panel {
+    width: 15%;
+    padding: 30px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 42px;
+}
+
+.range-slider {
+    width: 200 px;
+}
+
+#forward {
+    float: right;
+}
+
+#reverse {
+    float: left;
+}
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+h1 { 
+    text-align: center;
+    padding-bottom: 30px;
+    color: darkslategray;
+    font-family: century gothic, sans-serif;
+    font-size: 50px
+}
+
+p{
+    text-align: center;
+    padding-bottom: 30px;
+    color: black;
+    font-family: century gothic, sans-serif;
+    font-size: 20px  
 }

@@ -1,0 +1,244 @@
+{"type": "FeatureCollection",
+"features": [
+{
+    "type": "Feature",
+    "properties": {
+        "city": "Columbus, Ohio",
+        "murder_2002": 11.3,
+        "murder_2003": 15,
+        "murder_2004": 12.1,
+        "murder_2005": 14,
+        "murder_2006": 14.2,
+        "murder_2007": 10.7,
+        "murder_2008": 14.5
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-82.9987900, 39.9611800]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Cleveland, Ohio",
+        "murder_2002": 16.6,
+        "murder_2003": 15.6,
+        "murder_2004": 16.9,
+        "murder_2005": 23.8,
+        "murder_2006": 16.6,
+        "murder_2007": 20.5,
+        "murder_2008": 23.5
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-81.6954100, 41.4995000]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Cincinnati, Ohio",
+        "murder_2002": 19.2,
+        "murder_2003": 21.9,
+        "murder_2004": 20.1,
+        "murder_2005": 25.1,
+        "murder_2006": 28.8,
+        "murder_2007": 19,
+        "murder_2008": 21.9
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-84.4568900, 39.1620000]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Toledo, Ohio",
+        "murder_2002": 8.9,
+        "murder_2003": 6.8,
+        "murder_2004": 7.1,
+        "murder_2005": 9.2,
+        "murder_2006": 11.6,
+        "murder_2007": 4.4,
+        "murder_2008": 5.7
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-83.5552100, 41.6639400]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Akron, Ohio",
+        "murder_2002": 8.7,
+        "murder_2003": 7.5,
+        "murder_2004": 6.1,
+        "murder_2005": 12.7,
+        "murder_2006": 10.5,
+        "murder_2007": 8.2,
+        "murder_2008": 9.7
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-81.5190100, 41.0814400]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Dayton, Ohio",
+        "murder_2002": 25.1,
+        "murder_2003": 17.2,
+        "murder_2004": 19.8,
+        "murder_2005": 20,
+        "murder_2006": 23.3,
+        "murder_2007": 18,
+        "murder_2008": 24
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-84.1916100, 39.7589500]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Parma, Ohio",
+        "murder_2002": 2.3,
+        "murder_2003": 0,
+        "murder_2004": 0,
+        "murder_2005": 0,
+        "murder_2006": 0,
+        "murder_2007": 3.8,
+        "murder_2008": 0
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-81.7229100, 41.4047700]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Canton, Ohio",
+        "murder_2002": 11.3,
+        "murder_2003": 5,
+        "murder_2004": 11.3,
+        "murder_2005": 10.2,
+        "murder_2006": 10.3,
+        "murder_2007": 16.6,
+        "murder_2008": 2.6
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-81.3784500, 40.7989500]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Youngstown, Ohio",
+        "murder_2002": 40,
+        "murder_2003": 23.7,
+        "murder_2004": 29,
+        "murder_2005": 43.7,
+        "murder_2006": 38.6,
+        "murder_2007": 51.5,
+        "murder_2008": 39.8
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-80.6495200, 41.0997800]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Lorain, Ohio",
+        "murder_2002": 2.9,
+        "murder_2003": 7.4,
+        "murder_2004": 8.8,
+        "murder_2005": 8.8,
+        "murder_2006": 7.4,
+        "murder_2007": 9.9,
+        "murder_2008": 4.3
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-82.1823700, 41.4528200]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Hamilton, Ohio",
+        "murder_2002": 6.6,
+        "murder_2003": 6.6,
+        "murder_2004": 4.9,
+        "murder_2005": 4.9,
+        "murder_2006": 1.6,
+        "murder_2007": 3.2,
+        "murder_2008": 6.4
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-84.5613400, 39.3995000]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Springfield, Ohio",
+        "murder_2002": 10.6,
+        "murder_2003": 7.8,
+        "murder_2004": 9.3,
+        "murder_2005": 11,
+        "murder_2006": 6.3,
+        "murder_2007": 8,
+        "murder_2008": 14.5
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-83.8088200, 39.9242300]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Kettering, Ohio",
+        "murder_2002": 1.7,
+        "murder_2003": 0,
+        "murder_2004": 0,
+        "murder_2005": 5.4,
+        "murder_2006": 0,
+        "murder_2007": 1.8,
+        "murder_2008": 0
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-84.1688300, 39.6895000]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Elyria, Ohio",
+        "murder_2002": 7.1,
+        "murder_2003": 1.8,
+        "murder_2004": 1.8,
+        "murder_2005": 5.5,
+        "murder_2006": 1.8,
+        "murder_2007": 3.7,
+        "murder_2008": 7.5
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-82.1076500, 41.3683800]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "city": "Lakewood, Ohio",
+        "murder_2002": 1.8,
+        "murder_2003": 0,
+        "murder_2004": 1.8,
+        "murder_2005": 3.7,
+        "murder_2006": 1.9,
+        "murder_2007": 3.9,
+        "murder_2008": 2.0
+    },
+    "geometry":{
+        "type": "Point",
+        "coordinates": [-81.7981900, 41.4819900]
+    }
+}]
+}
