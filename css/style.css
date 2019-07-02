@@ -42,3 +42,10 @@ p{
     font-family: century gothic, sans-serif;
     font-size: 20px  
 }
+
+h2{
+    text-align: right;
+    color: gray;
+    font-size: 5 px;
+    font-style: italic;
+}
